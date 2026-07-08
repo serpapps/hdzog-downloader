@@ -1,4 +1,4 @@
-# HDZog Downloader (Browser Extension)
+# HDZog Video Downloader (Browser Extension)
 
 > Download supported HDZog videos as MP4 files from the browser with direct quality selection.
 
@@ -12,7 +12,7 @@ HDZog Downloader is a browser extension for users who want a more direct way to 
 
 ## Links
 
-- :rocket: Get it here: [HDZog Downloader](https://serp.ly/hdzog-downloader)
+- :rocket: Get it here: [HDZog Downloader](https://serp.ly/hdzog-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/hdzog-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/hdzog-downloader/issues)
@@ -123,7 +123,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/hdzog-downloader](https://serp.ly/hdzog-downloader)
+Start here: [https://serp.ly/hdzog-downloader?via=github](https://serp.ly/hdzog-downloader?via=github)
 
 ## Installation Instructions
 
